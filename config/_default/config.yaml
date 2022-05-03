@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Isaac Haïk Dunn # Website name
+baseURL: 'https://mantledparamountic.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -23,6 +23,13 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+#    - path: github.com/wowchemy/starter-hugo-academic
+#    - path: github.com/wowchemy/wowchemy-hugo-themes
+
+##
+# Name of Academic theme folder in `themes/`.
+#theme: "starter-hugo-academic"
+
 
 ############################
 ## ADVANCED
