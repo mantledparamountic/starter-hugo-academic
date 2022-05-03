@@ -29,7 +29,7 @@ module:
 ##
 # Name of Academic theme folder in `themes/`.
 #theme: "starter-hugo-academic"
-
+#theme: starter-hugo-academic
 
 ############################
 ## ADVANCED
